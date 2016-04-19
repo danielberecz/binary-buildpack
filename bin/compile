@@ -13,4 +13,6 @@ wget --no-check-certificate --header "Cookie: oraclelicense=accept-securebackup-
     
 export JAVA_HOME=~opt/jdk/jdk1.8.0_73/
 
+~opt/jdk/jdk1.8.0_73/bin/java --version
+
 exit 0
