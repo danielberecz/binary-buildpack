@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 # bin/release <build-dir>
+echo "-----> INSTALLING CORTEXID"
 
 ~opt/jdk/jdk1.8.0_73/bin/java -jar jord-api-spring-1.0-SNAPSHOT.jar
