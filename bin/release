@@ -11,3 +11,4 @@ cat <<YAML
 ---
 default_process_types:
    web: $app_folder/opt/jdk/jdk1.8.0_73/bin/java -jar $app_folder/jord-api-spring-1.0-SNAPSHOT.jar
+YAML
