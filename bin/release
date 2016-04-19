@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 # bin/release <build-dir>
-echo "-----> INSTALLING CORTEXID"
-
 cat <<YAML
 ---
 default_process_types:
