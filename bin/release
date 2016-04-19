@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # bin/release <build-dir>
 
-echo -e "---\ndefault_process_types:\n  web: exit 1"
+java -jar jord-api-spring-1.0-SNAPSHOT.jar
