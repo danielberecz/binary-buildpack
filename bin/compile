@@ -1,2 +1,5 @@
 #! /bin/sh
+
+apt-get update && apt-get -y install wget && apt-get -y install Xvfb && apt-get install -y openjdk-8-jre && apt-get install -y openjdk-8-jdk
+
 exit 0
